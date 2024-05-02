@@ -34,6 +34,50 @@
 // DONE 
 
 
-// Q : 3
+// Q : 4
+
+// const head = document.querySelector("h2")
+// const word = prompt("")
+// const add = word.indexOf("l");
+
+// head.innerHTML = word+ " " +add
+
+// DONE
+
+
+// Q : 5
+
+// const word = "pakistani";
+// const add =word.charAt(3)
+// console.log("character of index 3:"+ " " + add)
+
+
+// DONE 
+
+
+// Q : 6
+
+// const word = "hasan";
+// const words = "khan";
+// const add =word.concat( " " +words );
+// console.log(add)
+
+
+// DONE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
