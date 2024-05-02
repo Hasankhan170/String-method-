@@ -51,7 +51,6 @@
 // const add =word.charAt(3)
 // console.log("character of index 3:"+ " " + add)
 
-
 // DONE 
 
 
@@ -62,12 +61,43 @@
 // const add =word.concat( " " +words );
 // console.log(add)
 
-
 // DONE 
 
 
+// Q : 7
+
+// const city = "hasan";
+
+// const nameCity = city.replace( "ali", "iqbal" );
+// console.log("after replacement" +nameCity)
 
 
+// DONE OR NOT DONE 
+
+
+// Q : 8
+
+
+// const massage= "ali and sami are best friends. they are playing crickets and football together";
+//  const newMassge = massage.replace(/and/g, "&");
+
+//  console.log(newMassge)
+
+//  DONE 
+
+
+// Q : 9
+
+// const str = "472"
+// const num = parseInt(str);
+
+// console.log( "value" + str)
+// console.log( "type" + typeof str)
+
+// console.log( "value" + num)
+// console.log( "type" + typeof num)
+
+// DONE 
 
 
 
