@@ -138,7 +138,19 @@
 
 // DONE
 
+
 // Q : 13
+
+// const userName = prompt("Enter your");
+
+// const add = userName.charAt(0).toUpperCase() + userName.slice(1).toLowerCase();
+
+// console.log(add)
+
+// DONE 
+
+
+// Q : 14
 
 
 // const num =35.36;
@@ -150,7 +162,46 @@
 
 // DONE    
 
-// Q : 14
+
+// Q : 15
+
+// const a = prompt("")
+// const b = prompt("")
+
+// let add = a + b;
+
+
+// console.log("a is",a)
+// console.log("b is",b)
+
+// console.log(add);
+
+// DONE
+
+
+// Q : 16
+
+// const a = prompt("")
+// const b = prompt("")
+// let sub = a - b;
+
+// console.log("a is",a)
+// console.log("b is",b)
+// console.log(sub)
+
+// DONE
+
+
+// Q : 17
+
+
+
+
+
+
+
+
+
 
 
 
