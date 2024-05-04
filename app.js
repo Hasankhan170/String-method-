@@ -194,14 +194,58 @@
 
 // Q : 17
 
+// const userName = prompt("Enter your");
+
+// if(userName.includes(".")||userName.includes(",")||userName.includes("!")){
+//     alert("Please enter a valid user name without any special characters");
+    
+// }else{
+//     alert("Your user name is valid");
+// }
+
+// DONE 
 
 
+// Q : 18
+
+// const  arr = ["apple" ,"banana" ,"mango" , "grapes" ,"pepperoni"]
+// const userSearch = prompt("please select your favorite fruit")
+
+// let isFound = false;
+// for(let i = 0; i < arr.length; i++){
+//    if(arr[i].toLowerCase() === userSearch.toLowerCase()){
+//     isFound = true;
+//     break;
+//    }
+// }
+// if(isFound){
+//     console.log("Your favorite fruit is " + userSearch);
+
+// }else{
+//     console.log("Your favorite fruit is not found");
+// }
+
+// DONE 
 
 
+// Q : 19
 
 
+// const first = prompt("please enter first srting value")
+// const second = prompt("please enter second srting value")
+
+// if(first > second){
+//     alert("the first sriting is greater than the second sriting")
+// }else if(first < second){
+//     alert("the first sriting is less than the second sriting")
+// }else{
+//     alert("the first sriting is equal to the second sriting")
+// }
+
+// DONE 
 
 
+// Q : 20
 
 
 
