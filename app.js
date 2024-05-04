@@ -128,6 +128,29 @@
 
 // DONE 
 
+// Q : 12
+
+// const userValue = prompt("Enter your username");
+
+// let add = userValue.toLowerCase();
+
+// console.log(add)
+
+// DONE
+
+// Q : 13
+
+
+// const num =35.36;
+
+// const numString = num.toString();
+// const result = numString.replace(".", "");
+// console.log("number",num);
+// console.log("result",result);
+
+// DONE    
+
+// Q : 14
 
 
 
