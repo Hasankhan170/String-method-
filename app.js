@@ -101,8 +101,32 @@
 
 
 
+// Q : 10
+
+// function submit(url){
+//     let domain = url.split("www.").pop();
+//     return domain;
+// }
 
 
+
+// let url = "www.facebook.com";
+// let domain = submit(url);
+// console.log("Domian:",domain)
+
+
+// NOT DONE 
+
+
+// Q : 11
+
+// const userValue = prompt("Enter your username");
+
+// const add =userValue.toUpperCase();
+
+// console.log(add)
+
+// DONE 
 
 
 
