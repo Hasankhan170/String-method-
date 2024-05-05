@@ -56,7 +56,7 @@
 
 // Q : 6
 
-// const word = "hasan";
+// const word = "iqbal";
 // const words = "khan";
 // const add =word.concat( " " +words );
 // console.log(add)
@@ -66,7 +66,7 @@
 
 // Q : 7
 
-// const city = "hasan";
+// const city = "karachi";
 
 // const nameCity = city.replace( "ali", "iqbal" );
 // console.log("after replacement" +nameCity)
@@ -78,10 +78,10 @@
 // Q : 8
 
 
-// const massage= "ali and sami are best friends. they are playing crickets and football together";
-//  const newMassge = massage.replace(/and/g, "&");
+// const massage= "ali and iqbal are best friends. they are playing crickets and football together";
+//  const newMassage = massage.replace(/and/g, "&");
 
-//  console.log(newMassge)
+//  console.log(newMassage)
 
 //  DONE 
 
@@ -112,7 +112,7 @@
 
 // let url = "www.facebook.com";
 // let domain = submit(url);
-// console.log("Domian:",domain)
+// console.log("Domain:",domain)
 
 
 // NOT DONE 
@@ -231,15 +231,15 @@
 // Q : 19
 
 
-// const first = prompt("please enter first srting value")
-// const second = prompt("please enter second srting value")
+// const first = prompt("please enter first string value")
+// const second = prompt("please enter second string value")
 
 // if(first > second){
-//     alert("the first sriting is greater than the second sriting")
+//     alert("the first string is greater than the second string")
 // }else if(first < second){
-//     alert("the first sriting is less than the second sriting")
+//     alert("the first string is less than the second string")
 // }else{
-//     alert("the first sriting is equal to the second sriting")
+//     alert("the first string is equal to the second string")
 // }
 
 // DONE 
@@ -247,7 +247,57 @@
 
 // Q : 20
 
+// const password = prompt("enter your password");
 
+// var alphabet = /[a-zA-Z]/.test(password);
+// var numbers = /[0-9]/.test(password);
+
+// var startNumber = /^[0-9]/.test(password);
+// var passwordLength = password.length >= 6;
+
+// if(alphabet && numbers && ! startNumber && passwordLength){
+//     alert("your password is valid")
+// }else{ 
+//     alert("your password is not valid")
+// }
+
+
+// DONE
+
+
+// Q : 21
+
+// const str = "university of karachi"
+
+// const broke = str.split("")
+
+// for(let i = 0; i< broke.length; i++){
+//     console.log(broke[i] + " ")
+// }
+
+// DONE 
+
+
+// Q : 22
+
+// const userInput ="pakistan"
+// const lastCharacter = userInput.charAt(userInput.length-1)
+// console.log("last character of input :" + " " +lastCharacter)
+
+// DONE 
+
+
+// Q : 23
+
+
+// not complete
+
+
+// Q : 24
+
+// var str = "pakistan"
+
+// not complete
 
 
 
